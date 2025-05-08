@@ -1,0 +1,1 @@
+export { TheProblemByAnima } from "./TheProblemByAnima";

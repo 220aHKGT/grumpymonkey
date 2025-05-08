@@ -1,0 +1,1 @@
+export { PricingSectionByAnima } from "./PricingSectionByAnima";

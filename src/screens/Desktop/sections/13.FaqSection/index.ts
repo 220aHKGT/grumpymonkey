@@ -1,0 +1,1 @@
+export { FaqSectionByAnima } from "./FaqSectionByAnima";
